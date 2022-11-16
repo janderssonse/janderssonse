@@ -7,7 +7,7 @@ Currently, I'm working at https://github.com/diggsweden - the 🇸🇪 Swedish D
 
 🌱 I'm currently learning, as much as I can about Digital Identity Domains, and Open Shift with tooling. In general, I have a soft ❤️ for translations/languages, developer tooling, dev. tooling, Open Source practices and licensing - and retro computing!
 
-🥔 I'm involved in too many projects:) Have a look at my contribution history, even of that is roughly half of where I have contributed - I have a few of my own, then I try to fix and contribute to Open Source projects. I'm also partially involved in the translation scene of Open Source software, even though my time there is limited now-a-days.
+🥔 I'm involved in too many projects:) Have a look at my contribution history, even if it roughly half of where and what I have contributed - I have a few projects of my own, then I try to fix and contribute to Open Source projects. I'm also partially involved in the translation scene of Open Source software, even though my time there is limited now-a-days.
 
 🕰️ Well, I'm always eager to get together and hack, or discuss solving problems and how to improve Open Source or agility. Or more personal interests as renovation, nature walks, odd cola soft drinks, vinyl or comics!
 
