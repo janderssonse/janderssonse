@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior developer and Open Source Nerd. In recent years I have shifted gears slightly (still developing though) and helped organisations improve the Open Source Processes, in a practical way. My focus and :heart: is slightly to the tech side, as opposed to the enterprise overview side, as I like to get my hands dirty in a practical way. 
+I'm a senior developer with a passion for Open Source. In recent years I have shifted gears slightly (still developing though) and helped organisations improve the Open Source Processes, in a practical way. My focus and :heart: is slightly to the tech side, as opposed to the enterprise overview side, as I like to get my hands dirty in a practical way. 
 
 
 Currently, I'm working at [DIGG - the Swedish Digital Government Agency 🇸🇪](https://github.com/diggsweden) - where I partially develop interesting services, and partially help out improving their ongoing efforts regarding Open Source processing and practicality!
