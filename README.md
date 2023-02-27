@@ -3,7 +3,7 @@ Doing stuff, breaking things
 
 I'm a developer with a passion for Open Source, and in recent years I have shifted gears slightly (still developing though) and helped organisations improve Open Source Processes, in a practical agile way. My focus and :heart: is slightly to the tech side, as opposed to the enterprise overview side, as I like to get my hands dirty. 
 
-Having been involved in the Open Source communities, since the early days when one as a kid traded [Fred Fish floppydisks](https://en.wikipedia.org/wiki/Fred_Fish) with Source Code on them (having exotic licenses as "send me a postcard":), It has been such an interesting, rewarding and incredible journey to see Open Source mature on all levels, from being an academia and hobbyist interest, to grow, mature and become the essential part of our Global Infrastructure. 
+Having been involved in the Open Source communities, since the early days when one [Fred Fish floppydisks](https://en.wikipedia.org/wiki/Fred_Fish) with Source Code on them (having exotic licenses as "send me a postcard" - (the term Open Source was not yet there). I didn't code much back then neither, and if I did, we rather forget that code:)), It has been such an interesting, incredible journey to see Open Source mature on all levels, from being an academia and hobbyist interest, to grow, mature and become an essential part of our Global Infrastructure. 
 
 🌱 I have a soft ❤️ for translations/languages, developer tooling, Open Source practices and licensing and retro computing.
 
