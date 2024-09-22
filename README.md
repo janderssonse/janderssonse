@@ -9,7 +9,7 @@ Having been involved in the Open Source communities, since the early days when o
 
 🕰️ Well, I'm always eager to get together and hack, or discuss solving problems and how to improve Open Source or agility. 
 
-Projects I intend to keep developing are moved to https://github.com/itiquette - whereas this area will mostly be a place for contributing, experiments, archvied projects.
+Projects I intend to keep developing are moved to https://github.com/itiquette - whereas this area will mostly be a place for contributing, experiments and archived projects.
 
 Have fun, happy hacking!
              
