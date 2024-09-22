@@ -1,4 +1,4 @@
-Doing stuff, breaking things
+If it aint broken, fix it!
 --------------------------------
 
 I'm a developer with a passion for Open Source. In recent years I have shifted gears slightly (still developing though) and helped organisations improve Open Source Processes, in a practical agile way. My focus and :heart: is slightly to the tech side, as opposed to the enterprise overview side, as I like to get my hands dirty. 
@@ -8,6 +8,8 @@ Having been involved in the Open Source communities, since the early days when o
 🌱 I have a soft ❤️ for translations/languages, developer tooling, Open Source practices and licensing and retro computing.
 
 🕰️ Well, I'm always eager to get together and hack, or discuss solving problems and how to improve Open Source or agility. 
+
+Projects I intend to keep developing are moved to https://github.com/itiquette - whereas this area will mostly be a place for contributing, experiments, archvied projects.
 
 Have fun, happy hacking!
              
