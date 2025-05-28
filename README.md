@@ -1,4 +1,4 @@
-If it aint broken, fix it!
+If it aint broken, fix it anyway!
 --------------------------------
 
 I'm a developer with a passion for Open Source. In recent years I have shifted gears slightly (still developing though) and helped organisations improve Open Source Processes, in a practical agile way. My focus and :heart: is slightly to the tech side, as opposed to the enterprise overview side, as I like to get my hands dirty. 
