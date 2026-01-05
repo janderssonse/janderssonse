@@ -1,4 +1,5 @@
 Hi!
+
 I'm in the process of  migrating to Codeberg for much of my own stuff, but will keep this account for work, contributing, experimenting and old archived projects.
 
 Have fun, happy hacking!
@@ -12,7 +13,3 @@ Have fun, happy hacking!
 
 </p>
 
-
-### Badges
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=janderssonse&show_icons=true&theme=dracula)
