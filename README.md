@@ -9,7 +9,9 @@ Have fun, happy hacking!
   
 <a href="https://codeberg.org/hanklank" target="_blank" rel="noreferrer">Codeberg User Profile</a>
 
-<a href="https://itiquette.codeberg.page" target="_blank" rel="noreferrer">Codeberg Site - Blog etc</a>
+<a href="https://itiquette.codeberg.page" target="_blank" rel="noreferrer">Blog etc.</a>
+
+<a href="https://github.com/itiquette" target="_blank" rel="noreferrer">GitHub maintained projects (Itiquette)</a>  
 
 </p>
 
